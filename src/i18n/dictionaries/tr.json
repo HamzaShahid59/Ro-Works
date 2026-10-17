@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "RoWorks | Belçika'da ev tadilatı",
+    "description": "Belçika genelinde mutfak, banyo, bodrum, zemin ve komple ev tadilatı. Ücretsiz teklifinizi isteyin."
+  },
+  "nav": {
+    "services": "Hizmetler",
+    "projects": "Projeler",
+    "process": "Süreç",
+    "reviews": "Yorumlar",
+    "contact": "İletişim",
+    "quote": "Ücretsiz teklif",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "language": "Dil",
+    "skip": "İçeriğe geç"
+  },
+  "hero": {
+    "titleLine1": "Eviniz,",
+    "titleLine2": "daha iyi yenilendi.",
+    "subtitle": "Belçika genelinde mutfak, banyo, bodrum ve komple tadilat. Tek ekip, net bir teklif, tahmine yer yok.",
+    "ctaPrimary": "Projenize başlayın",
+    "trust": [
+      "Ücretsiz yazılı teklif",
+      "Tüm işler için tek ekip",
+      "Tüm Belçika'da hizmet"
+    ],
+    "imageAlt": "RoWorks tarafından tamamlanmış bir ev tadilatı"
+  },
+  "services": {
+    "title": "Neler yapıyoruz",
+    "intro": "Tek bir odadan tüm eve kadar, baştan sona kendi ekibimiz tarafından yönetilir.",
+    "items": {
+      "kitchens": {
+        "title": "Mutfaklar",
+        "text": "Dolaplar, tezgahlar, aydınlatma ve yaşam tarzınıza uygun yeni yerleşimler."
+      },
+      "bathrooms": {
+        "title": "Banyolar",
+        "text": "Duşakabinler, lavabo dolapları ve fayans."
+      },
+      "basements": {
+        "title": "Bodrumlar",
+        "text": "Yaşam alanı, ev ofisi ve depolama."
+      },
+      "flooring": {
+        "title": "Zeminler",
+        "text": "Parke, vinil, laminat ve seramik."
+      },
+      "wholeHome": {
+        "title": "Komple ev",
+        "text": "Tüm işler, tek ekip, tek muhatap."
+      }
+    }
+  },
+  "process": {
+    "title": "Dört adım. Sürpriz yok.",
+    "stepLabel": "Adım",
+    "steps": [
+      {
+        "title": "Görüşme",
+        "text": "Alanınızı, isteklerinizi ve bütçenizi anlamak için ücretsiz ziyaret."
+      },
+      {
+        "title": "Teklif",
+        "text": "İş başlamadan önce ayrıntılı yazılı fiyat ve zaman planı."
+      },
+      {
+        "title": "Uygulama",
+        "text": "Ekibimiz işe başlar ve sizi düzenli olarak bilgilendirir."
+      },
+      {
+        "title": "Teslim",
+        "text": "Birlikte son kontrol ve keyfini çıkaracağınız temiz bir alan."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Son projeler"
+  },
+  "reviews": {
+    "title": "Müşterilerimiz ne diyor"
+  },
+  "contact": {
+    "titleLine1": "Projeniz hakkında",
+    "titleLine2": "konuşalım.",
+    "intro": "Bize birkaç bilgi gönderin, ücretsiz görüşmenizi planlamak için sizinle iletişime geçelim.",
+    "call": "Arayın",
+    "serving": "Hizmet bölgesi",
+    "servingValue": "Tüm Belçika",
+    "form": {
+      "name": "Ad soyad",
+      "phone": "Telefon",
+      "email": "E-posta (isteğe bağlı)",
+      "projectType": "Proje türü",
+      "projectTypeHint": "Bir veya daha fazlasını seçin",
+      "other": "Diğer",
+      "message": "Projenizden bahsedin",
+      "messagePlaceholder": "Hangi odalar, yaklaşık büyüklük ve ne zaman başlamak istediğiniz",
+      "attachments": "Dosya ekle (isteğe bağlı)",
+      "attachmentsHint": "Fotoğraf, plan veya belge. En fazla {count} dosya, toplam {max} MB.",
+      "chooseFiles": "Dosya seç",
+      "noFileChosen": "Dosya seçilmedi",
+      "filesSelected": "Seçilen dosyalar: {count}",
+      "removeFile": "Kaldır",
+      "tooManyFiles": "En fazla {count} dosya ekleyebilirsiniz.",
+      "filesTooLarge": "Dosyalar çok büyük. Toplam boyut {max} MB'den küçük olmalıdır.",
+      "fileTypeBlocked": "Bu dosya türü gönderilemez: {name}. Bunun yerine PDF, resim veya Office dosyası deneyin.",
+      "submit": "Ücretsiz teklifimi al",
+      "sending": "Gönderiliyor…",
+      "success": "Teşekkürler! Talebiniz gönderildi. En kısa sürede sizinle iletişime geçeceğiz.",
+      "error": "Talebiniz gönderilemedi. Lütfen tekrar deneyin veya bizi arayın.",
+      "required": "Lütfen adınızı ve telefon numaranızı girin."
+    }
+  },
+  "footer": {
+    "tagline": "Belçika'da ev tadilatı",
+    "rights": "Tüm hakları saklıdır."
+  }
+}

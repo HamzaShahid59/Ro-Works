@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "RoWorks | Home renovation in Belgium",
+    "description": "Kitchens, bathrooms, basements, flooring and full home renovations across Belgium. Request your free quote."
+  },
+  "nav": {
+    "services": "Services",
+    "projects": "Projects",
+    "process": "Process",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "quote": "Free quote",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "titleLine1": "Your home,",
+    "titleLine2": "rebuilt better.",
+    "subtitle": "Kitchens, bathrooms, basements and full renovations across Belgium. One team, one clear quote, no guesswork.",
+    "ctaPrimary": "Start your project",
+    "trust": [
+      "Free written quotes",
+      "One team for every trade",
+      "Working across Belgium"
+    ],
+    "imageAlt": "A finished home renovation by RoWorks"
+  },
+  "services": {
+    "title": "What we build",
+    "intro": "From a single room to the whole house, managed from start to finish by our own team.",
+    "items": {
+      "kitchens": {
+        "title": "Kitchens",
+        "text": "Cabinets, worktops, lighting and new layouts, designed around how you cook and live."
+      },
+      "bathrooms": {
+        "title": "Bathrooms",
+        "text": "Walk-in showers, vanities and tiling."
+      },
+      "basements": {
+        "title": "Basements",
+        "text": "Living space, home offices and storage."
+      },
+      "flooring": {
+        "title": "Flooring",
+        "text": "Parquet, vinyl, laminate and tiles."
+      },
+      "wholeHome": {
+        "title": "Whole home",
+        "text": "Every trade, one team, one point of contact."
+      }
+    }
+  },
+  "process": {
+    "title": "Four steps. No surprises.",
+    "stepLabel": "Step",
+    "steps": [
+      {
+        "title": "Consult",
+        "text": "A free visit to understand your space, wishes and budget."
+      },
+      {
+        "title": "Quote",
+        "text": "A detailed written price and timeline before any work starts."
+      },
+      {
+        "title": "Build",
+        "text": "Our crew gets to work, with regular updates along the way."
+      },
+      {
+        "title": "Handover",
+        "text": "A final walkthrough together, and a clean space to enjoy."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Recent projects"
+  },
+  "reviews": {
+    "title": "What our customers say"
+  },
+  "contact": {
+    "titleLine1": "Let's talk about",
+    "titleLine2": "your project.",
+    "intro": "Send us a few details and we will contact you to plan your free consultation.",
+    "call": "Call",
+    "serving": "Serving",
+    "servingValue": "All of Belgium",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email (optional)",
+      "projectType": "Project type",
+      "projectTypeHint": "Choose one or more",
+      "other": "Other",
+      "message": "Tell us about your project",
+      "messagePlaceholder": "Which rooms, rough size, and when you would like to start",
+      "attachments": "Attach files (optional)",
+      "attachmentsHint": "Photos, plans or documents. Up to {count} files, {max} MB in total.",
+      "chooseFiles": "Choose files",
+      "noFileChosen": "No file chosen",
+      "filesSelected": "Files selected: {count}",
+      "removeFile": "Remove",
+      "tooManyFiles": "You can attach up to {count} files.",
+      "filesTooLarge": "The files are too large. The total must be under {max} MB.",
+      "fileTypeBlocked": "This file type can't be sent: {name}. Try a PDF, image or Office file instead.",
+      "submit": "Get my free quote",
+      "sending": "Sending…",
+      "success": "Thank you! Your request has been sent. We will contact you soon.",
+      "error": "Your request could not be sent. Please try again or call us.",
+      "required": "Please fill in your name and phone number."
+    }
+  },
+  "footer": {
+    "tagline": "Home renovation in Belgium",
+    "rights": "All rights reserved."
+  }
+}

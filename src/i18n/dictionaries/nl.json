@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "RoWorks | Renovatie in België",
+    "description": "Keukens, badkamers, kelders, vloeren en volledige renovaties in heel België. Vraag uw gratis offerte aan."
+  },
+  "nav": {
+    "services": "Diensten",
+    "projects": "Projecten",
+    "process": "Werkwijze",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "quote": "Gratis offerte",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "language": "Taal",
+    "skip": "Naar inhoud"
+  },
+  "hero": {
+    "titleLine1": "Uw woning,",
+    "titleLine2": "beter dan ooit.",
+    "subtitle": "Keukens, badkamers, kelders en volledige renovaties in heel België. Eén team, één duidelijke offerte, geen giswerk.",
+    "ctaPrimary": "Start uw project",
+    "trust": [
+      "Gratis schriftelijke offerte",
+      "Eén team voor alle werken",
+      "Actief in heel België"
+    ],
+    "imageAlt": "Een afgewerkte renovatie door RoWorks"
+  },
+  "services": {
+    "title": "Wat wij bouwen",
+    "intro": "Van één kamer tot de hele woning, van begin tot einde beheerd door ons eigen team.",
+    "items": {
+      "kitchens": {
+        "title": "Keukens",
+        "text": "Kasten, werkbladen, verlichting en nieuwe indelingen, afgestemd op hoe u kookt en leeft."
+      },
+      "bathrooms": {
+        "title": "Badkamers",
+        "text": "Inloopdouches, badmeubels en tegelwerk."
+      },
+      "basements": {
+        "title": "Kelders",
+        "text": "Leefruimte, thuiskantoor en opslag."
+      },
+      "flooring": {
+        "title": "Vloeren",
+        "text": "Parket, vinyl, laminaat en tegels."
+      },
+      "wholeHome": {
+        "title": "Volledige woning",
+        "text": "Alle werken, één team, één aanspreekpunt."
+      }
+    }
+  },
+  "process": {
+    "title": "Vier stappen. Geen verrassingen.",
+    "stepLabel": "Stap",
+    "steps": [
+      {
+        "title": "Kennismaking",
+        "text": "Een gratis bezoek om uw ruimte, wensen en budget te begrijpen."
+      },
+      {
+        "title": "Offerte",
+        "text": "Een gedetailleerde schriftelijke prijs en planning voor de werken starten."
+      },
+      {
+        "title": "Uitvoering",
+        "text": "Onze ploeg gaat aan de slag en houdt u regelmatig op de hoogte."
+      },
+      {
+        "title": "Oplevering",
+        "text": "Een laatste rondgang samen, en een nette ruimte om van te genieten."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Recente projecten"
+  },
+  "reviews": {
+    "title": "Wat onze klanten zeggen"
+  },
+  "contact": {
+    "titleLine1": "Laten we praten over",
+    "titleLine2": "uw project.",
+    "intro": "Stuur ons enkele gegevens en we nemen contact op om uw gratis kennismaking te plannen.",
+    "call": "Bel",
+    "serving": "Werkgebied",
+    "servingValue": "Heel België",
+    "form": {
+      "name": "Naam",
+      "phone": "Telefoon",
+      "email": "E-mail (optioneel)",
+      "projectType": "Soort project",
+      "projectTypeHint": "Kies er één of meer",
+      "other": "Andere",
+      "message": "Vertel ons over uw project",
+      "messagePlaceholder": "Welke ruimtes, ongeveer hoe groot, en wanneer u wilt starten",
+      "attachments": "Bestanden toevoegen (optioneel)",
+      "attachmentsHint": "Foto's, plannen of documenten. Maximaal {count} bestanden, {max} MB in totaal.",
+      "chooseFiles": "Bestanden kiezen",
+      "noFileChosen": "Geen bestand gekozen",
+      "filesSelected": "Bestanden gekozen: {count}",
+      "removeFile": "Verwijderen",
+      "tooManyFiles": "U kunt maximaal {count} bestanden toevoegen.",
+      "filesTooLarge": "De bestanden zijn te groot. Het totaal moet kleiner zijn dan {max} MB.",
+      "fileTypeBlocked": "Dit bestandstype kan niet worden verzonden: {name}. Probeer een pdf, afbeelding of Office-bestand.",
+      "submit": "Vraag mijn gratis offerte aan",
+      "sending": "Bezig met verzenden…",
+      "success": "Bedankt! Uw aanvraag is verzonden. We nemen snel contact met u op.",
+      "error": "Uw aanvraag kon niet worden verzonden. Probeer het opnieuw of bel ons.",
+      "required": "Vul uw naam en telefoonnummer in."
+    }
+  },
+  "footer": {
+    "tagline": "Renovatie in België",
+    "rights": "Alle rechten voorbehouden."
+  }
+}

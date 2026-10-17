@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "RoWorks | Rénovation en Belgique",
+    "description": "Cuisines, salles de bain, caves, sols et rénovations complètes dans toute la Belgique. Demandez votre devis gratuit."
+  },
+  "nav": {
+    "services": "Services",
+    "projects": "Projets",
+    "process": "Méthode",
+    "reviews": "Avis",
+    "contact": "Contact",
+    "quote": "Devis gratuit",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue",
+    "skip": "Aller au contenu"
+  },
+  "hero": {
+    "titleLine1": "Votre maison,",
+    "titleLine2": "rénovée en mieux.",
+    "subtitle": "Cuisines, salles de bain, caves et rénovations complètes dans toute la Belgique. Une équipe, un devis clair, aucune incertitude.",
+    "ctaPrimary": "Lancer votre projet",
+    "trust": [
+      "Devis écrits gratuits",
+      "Une équipe pour tous les corps de métier",
+      "Partout en Belgique"
+    ],
+    "imageAlt": "Une rénovation terminée par RoWorks"
+  },
+  "services": {
+    "title": "Ce que nous réalisons",
+    "intro": "D'une seule pièce à toute la maison, géré du début à la fin par notre propre équipe.",
+    "items": {
+      "kitchens": {
+        "title": "Cuisines",
+        "text": "Meubles, plans de travail, éclairage et nouveaux agencements, pensés pour votre façon de vivre."
+      },
+      "bathrooms": {
+        "title": "Salles de bain",
+        "text": "Douches à l'italienne, meubles vasques et carrelage."
+      },
+      "basements": {
+        "title": "Caves",
+        "text": "Espace de vie, bureau et rangement."
+      },
+      "flooring": {
+        "title": "Sols",
+        "text": "Parquet, vinyle, stratifié et carrelage."
+      },
+      "wholeHome": {
+        "title": "Maison complète",
+        "text": "Tous les travaux, une équipe, un seul interlocuteur."
+      }
+    }
+  },
+  "process": {
+    "title": "Quatre étapes. Aucune surprise.",
+    "stepLabel": "Étape",
+    "steps": [
+      {
+        "title": "Rencontre",
+        "text": "Une visite gratuite pour comprendre votre espace, vos souhaits et votre budget."
+      },
+      {
+        "title": "Devis",
+        "text": "Un prix écrit détaillé et un planning avant le début des travaux."
+      },
+      {
+        "title": "Travaux",
+        "text": "Notre équipe se met au travail et vous tient informé régulièrement."
+      },
+      {
+        "title": "Réception",
+        "text": "Une visite finale ensemble, et un espace propre à profiter."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets récents"
+  },
+  "reviews": {
+    "title": "Ce que disent nos clients"
+  },
+  "contact": {
+    "titleLine1": "Parlons de",
+    "titleLine2": "votre projet.",
+    "intro": "Envoyez-nous quelques informations et nous vous contacterons pour planifier votre visite gratuite.",
+    "call": "Appeler",
+    "serving": "Zone d'intervention",
+    "servingValue": "Toute la Belgique",
+    "form": {
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail (facultatif)",
+      "projectType": "Type de projet",
+      "projectTypeHint": "Choisissez-en un ou plusieurs",
+      "other": "Autre",
+      "message": "Parlez-nous de votre projet",
+      "messagePlaceholder": "Quelles pièces, surface approximative et date de début souhaitée",
+      "attachments": "Joindre des fichiers (facultatif)",
+      "attachmentsHint": "Photos, plans ou documents. Jusqu'à {count} fichiers, {max} Mo au total.",
+      "chooseFiles": "Choisir des fichiers",
+      "noFileChosen": "Aucun fichier choisi",
+      "filesSelected": "Fichiers choisis : {count}",
+      "removeFile": "Retirer",
+      "tooManyFiles": "Vous pouvez joindre jusqu'à {count} fichiers.",
+      "filesTooLarge": "Les fichiers sont trop volumineux. Le total doit être inférieur à {max} Mo.",
+      "fileTypeBlocked": "Ce type de fichier ne peut pas être envoyé : {name}. Essayez un PDF, une image ou un fichier Office.",
+      "submit": "Recevoir mon devis gratuit",
+      "sending": "Envoi en cours…",
+      "success": "Merci ! Votre demande a été envoyée. Nous vous contacterons bientôt.",
+      "error": "Votre demande n'a pas pu être envoyée. Réessayez ou appelez-nous.",
+      "required": "Veuillez indiquer votre nom et votre numéro de téléphone."
+    }
+  },
+  "footer": {
+    "tagline": "Rénovation en Belgique",
+    "rights": "Tous droits réservés."
+  }
+}

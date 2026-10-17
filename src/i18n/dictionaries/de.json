@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "RoWorks | Renovierung in Belgien",
+    "description": "Küchen, Bäder, Keller, Böden und Komplettrenovierungen in ganz Belgien. Fordern Sie Ihr kostenloses Angebot an."
+  },
+  "nav": {
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "process": "Ablauf",
+    "reviews": "Bewertungen",
+    "contact": "Kontakt",
+    "quote": "Kostenloses Angebot",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "language": "Sprache",
+    "skip": "Zum Inhalt springen"
+  },
+  "hero": {
+    "titleLine1": "Ihr Zuhause,",
+    "titleLine2": "besser neu gebaut.",
+    "subtitle": "Küchen, Bäder, Keller und Komplettrenovierungen in ganz Belgien. Ein Team, ein klares Angebot, kein Rätselraten.",
+    "ctaPrimary": "Projekt starten",
+    "trust": [
+      "Kostenlose schriftliche Angebote",
+      "Ein Team für alle Gewerke",
+      "Tätig in ganz Belgien"
+    ],
+    "imageAlt": "Eine fertige Renovierung von RoWorks"
+  },
+  "services": {
+    "title": "Was wir bauen",
+    "intro": "Vom einzelnen Raum bis zum ganzen Haus, von Anfang bis Ende von unserem eigenen Team betreut.",
+    "items": {
+      "kitchens": {
+        "title": "Küchen",
+        "text": "Schränke, Arbeitsplatten, Beleuchtung und neue Grundrisse, abgestimmt auf Ihr Leben."
+      },
+      "bathrooms": {
+        "title": "Bäder",
+        "text": "Ebenerdige Duschen, Waschtische und Fliesen."
+      },
+      "basements": {
+        "title": "Keller",
+        "text": "Wohnraum, Homeoffice und Stauraum."
+      },
+      "flooring": {
+        "title": "Böden",
+        "text": "Parkett, Vinyl, Laminat und Fliesen."
+      },
+      "wholeHome": {
+        "title": "Ganzes Haus",
+        "text": "Alle Gewerke, ein Team, ein Ansprechpartner."
+      }
+    }
+  },
+  "process": {
+    "title": "Vier Schritte. Keine Überraschungen.",
+    "stepLabel": "Schritt",
+    "steps": [
+      {
+        "title": "Beratung",
+        "text": "Ein kostenloser Besuch, um Ihren Raum, Ihre Wünsche und Ihr Budget kennenzulernen."
+      },
+      {
+        "title": "Angebot",
+        "text": "Ein detaillierter schriftlicher Preis und Zeitplan, bevor die Arbeiten beginnen."
+      },
+      {
+        "title": "Umsetzung",
+        "text": "Unser Team legt los und hält Sie regelmäßig auf dem Laufenden."
+      },
+      {
+        "title": "Übergabe",
+        "text": "Eine gemeinsame Abnahme und ein sauberer Raum zum Genießen."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Aktuelle Projekte"
+  },
+  "reviews": {
+    "title": "Das sagen unsere Kunden"
+  },
+  "contact": {
+    "titleLine1": "Sprechen wir über",
+    "titleLine2": "Ihr Projekt.",
+    "intro": "Senden Sie uns ein paar Angaben und wir melden uns, um Ihre kostenlose Beratung zu planen.",
+    "call": "Anrufen",
+    "serving": "Einsatzgebiet",
+    "servingValue": "Ganz Belgien",
+    "form": {
+      "name": "Name",
+      "phone": "Telefon",
+      "email": "E-Mail (optional)",
+      "projectType": "Projektart",
+      "projectTypeHint": "Eine oder mehrere auswählen",
+      "other": "Sonstiges",
+      "message": "Erzählen Sie uns von Ihrem Projekt",
+      "messagePlaceholder": "Welche Räume, ungefähre Größe und gewünschter Starttermin",
+      "attachments": "Dateien anhängen (optional)",
+      "attachmentsHint": "Fotos, Pläne oder Dokumente. Bis zu {count} Dateien, insgesamt {max} MB.",
+      "chooseFiles": "Dateien auswählen",
+      "noFileChosen": "Keine Datei ausgewählt",
+      "filesSelected": "Ausgewählte Dateien: {count}",
+      "removeFile": "Entfernen",
+      "tooManyFiles": "Sie können bis zu {count} Dateien anhängen.",
+      "filesTooLarge": "Die Dateien sind zu groß. Insgesamt müssen sie unter {max} MB liegen.",
+      "fileTypeBlocked": "Dieser Dateityp kann nicht gesendet werden: {name}. Versuchen Sie eine PDF-, Bild- oder Office-Datei.",
+      "submit": "Kostenloses Angebot anfordern",
+      "sending": "Wird gesendet…",
+      "success": "Vielen Dank! Ihre Anfrage wurde gesendet. Wir melden uns bald bei Ihnen.",
+      "error": "Ihre Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder rufen Sie uns an.",
+      "required": "Bitte geben Sie Ihren Namen und Ihre Telefonnummer ein."
+    }
+  },
+  "footer": {
+    "tagline": "Renovierung in Belgien",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}
